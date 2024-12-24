@@ -1,1 +1,1 @@
-print("multiverse")
+print("multivere")
